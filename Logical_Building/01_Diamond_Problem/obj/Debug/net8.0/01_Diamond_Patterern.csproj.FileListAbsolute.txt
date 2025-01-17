@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\PatterenCode\obj\Debug\net8.0\01_Diamond_Patterern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\PatterenCode\obj\Debug\net8.0\01_Diamond_Patterern.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\PatterenCode\obj\Debug\net8.0\01_Diamond_Patterern.AssemblyInfo.cs
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\PatterenCode\obj\Debug\net8.0\01_Diamond_Patterern.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\PatterenCode\obj\Debug\net8.0\01_Diamond_Patterern.sourcelink.json
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\PatterenCode\bin\Debug\net8.0\01_Diamond_Patterern.exe
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\PatterenCode\bin\Debug\net8.0\01_Diamond_Patterern.deps.json
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\PatterenCode\bin\Debug\net8.0\01_Diamond_Patterern.runtimeconfig.json
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\PatterenCode\bin\Debug\net8.0\01_Diamond_Patterern.dll
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\PatterenCode\bin\Debug\net8.0\01_Diamond_Patterern.pdb
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\PatterenCode\obj\Debug\net8.0\01_Diamond_Patterern.dll
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\PatterenCode\obj\Debug\net8.0\refint\01_Diamond_Patterern.dll
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\PatterenCode\obj\Debug\net8.0\01_Diamond_Patterern.pdb
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\PatterenCode\obj\Debug\net8.0\01_Diamond_Patterern.genruntimeconfig.cache
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\PatterenCode\obj\Debug\net8.0\ref\01_Diamond_Patterern.dll
