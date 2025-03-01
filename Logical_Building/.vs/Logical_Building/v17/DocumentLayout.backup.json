@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{E4A4309E-F219-4C4B-A7CF-110A1521FBF0}|03_Reverse_String\\03_Reverse_String.csproj|solutionrelative:03_reverse_string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E831419E-AC25-455F-93D1-D819459B90A5}|04_FrequencyCount\\04_FrequencyCount.csproj|d:\\coding2\\ajay v#\\patteren_code\\logical_building\\04_frequencycount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E831419E-AC25-455F-93D1-D819459B90A5}|04_FrequencyCount\\04_FrequencyCount.csproj|solutionrelative:04_frequencycount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B524AA63-4402-4D4E-9138-67BBDC016D45}|02_Half_DiamondTypeNumber\\02_Half_DiamondTypeNumber.csproj|d:\\coding2\\ajay v#\\patteren_code\\logical_building\\02_half_diamondtypenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B524AA63-4402-4D4E-9138-67BBDC016D45}|02_Half_DiamondTypeNumber\\02_Half_DiamondTypeNumber.csproj|solutionrelative:02_half_diamondtypenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,33 +46,45 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Patteren_Code\\Logical_Building\\04_FrequencyCount\\Program.cs",
+              "RelativeDocumentMoniker": "04_FrequencyCount\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\Patteren_Code\\Logical_Building\\04_FrequencyCount\\Program.cs",
+              "RelativeToolTip": "04_FrequencyCount\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:56:27.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Patteren_Code\\Logical_Building\\03_Reverse_String\\Program.cs",
               "RelativeDocumentMoniker": "03_Reverse_String\\Program.cs",
               "ToolTip": "D:\\Coding2\\Ajay V#\\Patteren_Code\\Logical_Building\\03_Reverse_String\\Program.cs",
               "RelativeToolTip": "03_Reverse_String\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwCwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T04:01:11.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "02_Half_DiamondTypeNumber",
+              "DocumentIndex": 3,
+              "Title": "02_Half_DiamondTypeNumber.csproj",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Patteren_Code\\Logical_Building\\02_Half_DiamondTypeNumber\\02_Half_DiamondTypeNumber.csproj",
               "RelativeDocumentMoniker": "02_Half_DiamondTypeNumber\\02_Half_DiamondTypeNumber.csproj",
               "ToolTip": "D:\\Coding2\\Ajay V#\\Patteren_Code\\Logical_Building\\02_Half_DiamondTypeNumber\\02_Half_DiamondTypeNumber.csproj",
               "RelativeToolTip": "02_Half_DiamondTypeNumber\\02_Half_DiamondTypeNumber.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-03T03:59:58.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T03:59:58.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Patteren_Code\\Logical_Building\\01_Diamond_Problem\\Program.cs",
               "RelativeDocumentMoniker": "01_Diamond_Problem\\Program.cs",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "01_Diamond_Problem\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T03:57:29.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T03:57:29.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\Patteren_Code\\Logical_Building\\02_Half_DiamondTypeNumber\\Program.cs",
               "RelativeDocumentMoniker": "02_Half_DiamondTypeNumber\\Program.cs",
@@ -89,8 +104,7 @@
               "RelativeToolTip": "02_Half_DiamondTypeNumber\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwBkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T13:42:31.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T13:42:31.469Z"
             }
           ]
         }

@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\04_FrequencyCount\bin\Debug\net8.0\04_FrequencyCount.exe
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\04_FrequencyCount\bin\Debug\net8.0\04_FrequencyCount.deps.json
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\04_FrequencyCount\bin\Debug\net8.0\04_FrequencyCount.runtimeconfig.json
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\04_FrequencyCount\bin\Debug\net8.0\04_FrequencyCount.dll
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\04_FrequencyCount\bin\Debug\net8.0\04_FrequencyCount.pdb
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\04_FrequencyCount\obj\Debug\net8.0\04_FrequencyCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\04_FrequencyCount\obj\Debug\net8.0\04_FrequencyCount.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\04_FrequencyCount\obj\Debug\net8.0\04_FrequencyCount.AssemblyInfo.cs
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\04_FrequencyCount\obj\Debug\net8.0\04_FrequencyCount.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\04_FrequencyCount\obj\Debug\net8.0\04_FrequencyCount.sourcelink.json
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\04_FrequencyCount\obj\Debug\net8.0\04_FrequencyCount.dll
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\04_FrequencyCount\obj\Debug\net8.0\refint\04_FrequencyCount.dll
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\04_FrequencyCount\obj\Debug\net8.0\04_FrequencyCount.pdb
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\04_FrequencyCount\obj\Debug\net8.0\04_FrequencyCount.genruntimeconfig.cache
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\04_FrequencyCount\obj\Debug\net8.0\ref\04_FrequencyCount.dll
