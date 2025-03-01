@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02_Half_DiamondTypeNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+838d5ca142b8c8dd8c4d5a3261c40e005f363188")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44741825da55b8d7dd088365d92f7ca52ccb823c")]
 [assembly: System.Reflection.AssemblyProductAttribute("02_Half_DiamondTypeNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02_Half_DiamondTypeNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

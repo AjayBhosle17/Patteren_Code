@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\03_Reverse_String\bin\Debug\net8.0\03_Reverse_String.exe
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\03_Reverse_String\bin\Debug\net8.0\03_Reverse_String.deps.json
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\03_Reverse_String\bin\Debug\net8.0\03_Reverse_String.runtimeconfig.json
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\03_Reverse_String\bin\Debug\net8.0\03_Reverse_String.dll
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\03_Reverse_String\bin\Debug\net8.0\03_Reverse_String.pdb
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\03_Reverse_String\obj\Debug\net8.0\03_Reverse_String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\03_Reverse_String\obj\Debug\net8.0\03_Reverse_String.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\03_Reverse_String\obj\Debug\net8.0\03_Reverse_String.AssemblyInfo.cs
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\03_Reverse_String\obj\Debug\net8.0\03_Reverse_String.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\03_Reverse_String\obj\Debug\net8.0\03_Reverse_String.sourcelink.json
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\03_Reverse_String\obj\Debug\net8.0\03_Reverse_String.dll
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\03_Reverse_String\obj\Debug\net8.0\refint\03_Reverse_String.dll
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\03_Reverse_String\obj\Debug\net8.0\03_Reverse_String.pdb
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\03_Reverse_String\obj\Debug\net8.0\03_Reverse_String.genruntimeconfig.cache
+D:\Coding2\Ajay V#\Patteren_Code\Logical_Building\03_Reverse_String\obj\Debug\net8.0\ref\03_Reverse_String.dll

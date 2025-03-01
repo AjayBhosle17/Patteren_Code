@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding2\\Ajay V#\\Patteren_Code\\Logical_Building\\PatterenCode\\01_Diamond_Patterern.csproj": {}
+    "D:\\Coding2\\Ajay V#\\Patteren_Code\\Logical_Building\\01_Diamond_Problem\\01_Diamond_Patterern.csproj": {}
   },
   "projects": {
-    "D:\\Coding2\\Ajay V#\\Patteren_Code\\Logical_Building\\PatterenCode\\01_Diamond_Patterern.csproj": {
+    "D:\\Coding2\\Ajay V#\\Patteren_Code\\Logical_Building\\01_Diamond_Problem\\01_Diamond_Patterern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding2\\Ajay V#\\Patteren_Code\\Logical_Building\\PatterenCode\\01_Diamond_Patterern.csproj",
+        "projectUniqueName": "D:\\Coding2\\Ajay V#\\Patteren_Code\\Logical_Building\\01_Diamond_Problem\\01_Diamond_Patterern.csproj",
         "projectName": "01_Diamond_Patterern",
-        "projectPath": "D:\\Coding2\\Ajay V#\\Patteren_Code\\Logical_Building\\PatterenCode\\01_Diamond_Patterern.csproj",
+        "projectPath": "D:\\Coding2\\Ajay V#\\Patteren_Code\\Logical_Building\\01_Diamond_Problem\\01_Diamond_Patterern.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding2\\Ajay V#\\Patteren_Code\\Logical_Building\\PatterenCode\\obj\\",
+        "outputPath": "D:\\Coding2\\Ajay V#\\Patteren_Code\\Logical_Building\\01_Diamond_Problem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
